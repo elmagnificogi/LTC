@@ -1,6 +1,6 @@
-# LTC
+# LTC/SMPTE
 
-An example for C# decode ltc from  raw audio data base on NAudio
+An example for C# decode LTC timecode from  raw audio data base on NAudio
 
 
 
@@ -24,3 +24,5 @@ An example for C# decode ltc from  raw audio data base on NAudio
 > https://github.com/alantelles/py-ltc-reader
 >
 > https://github.com/naudio/NAudio
+>
+> http://www.philrees.co.uk/articles/timecode.htm#word
