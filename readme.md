@@ -17,7 +17,7 @@ An example for C# decode LTC timecode from  raw audio data base on NAudio
 
 
 
-## Refference
+## Reference
 
 > https://elmagnifico.tech/2023/09/19/SMPTE/
 >
